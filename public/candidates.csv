@@ -1,0 +1,9 @@
+Candidate_ID,Technical_Answer,Communication_Score,Confidence_Score,Technical_Score,Experience,Final_Score,Result
+C001,Explained REST APIs and HTTP methods clearly,78,72,85,2 years,79,Selected
+C002,Described a CNN but missed pooling layers,65,60,62,Fresher,62,Not Selected
+C003,Compared SQL and NoSQL with real examples,88,84,90,3 years,88,Selected
+C004,Gave a vague answer about cloud storage,55,48,50,Fresher,51,Not Selected
+C005,Explained how an IoT sensor sends data to the cloud,80,76,82,1 year,80,Selected
+C006,Correct definition of overfitting and fixes,74,70,79,1 year,75,Selected
+C007,Could not explain how a database index works,60,58,52,Fresher,56,Not Selected
+C008,Walked through a full ML pipeline step by step,91,87,93,4 years,91,Selected

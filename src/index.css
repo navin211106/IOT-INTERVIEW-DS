@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;500;700&family=Instrument+Serif:ital@1&family=Space+Mono&display=swap');
+
+:root {
+  --bg: #0a0a0d; --card: #111116; --line: #25252e; --text: #eeeae2;
+  --muted: #9a9aa6; --accent: #8b8ff5; --red: #ff5a4e;
+  --display: 'Anton', 'Impact', sans-serif;
+  --serif: 'Instrument Serif', Georgia, serif;
+  --mono: 'Space Mono', Consolas, monospace;
+  --body: 'Archivo', 'Segoe UI', sans-serif;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--bg); color: var(--text); font-family: var(--body); line-height: 1.6; }
+h1, h2, h3, p { margin: 0; }
+a { color: inherit; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }

@@ -1,0 +1,9 @@
+flask
+flask-cors
+librosa
+numpy
+scikit-learn
+soundfile
+opencv-python-headless
+# Only needed to train and run the CNN-LSTM emotion model (Python 3.9 to 3.12):
+# tensorflow
